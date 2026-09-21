@@ -184,7 +184,6 @@ nav a.active::after {
     object-fit: cover;
     object-position: top;
     border: 1px solid var(--border);
-    filter: grayscale(20%) brightness(0.9);
     transition: filter 0.4s;
     border-radius: 50px;
 }
